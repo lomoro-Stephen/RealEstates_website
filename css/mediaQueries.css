@@ -13,6 +13,12 @@
     nav{
         padding: 10px 8px 10px 8px;
     }
+    .fa-bars{
+        display:flex;
+    }
+    .hero-section{
+        height: cal(100vh - 20px);
+    }
     .hero-content{
         width: 98%;
     }
